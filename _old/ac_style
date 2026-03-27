@@ -222,180 +222,56 @@
   <!-- ═══ RIGHT CONTENT ═══ -->
   <div class="content">
 
-    <!-- ACADEMIC PUBLICATIONS -->
-    <h2>Academic publications</h2>
-    <p style="font-size: 12.5px; color: #999; margin-top: -10px; margin-bottom: 14px;">(Click on title for abstract)</p>
-
-    <!-- 1. Fiscal Progressivity -->
-    <div class="paper">
-      <span class="paper-title">Fiscal Progressivity and the Time Consistency of Monetary Policy</span>
-      <div class="paper-abstract">This paper studies how progressive fiscal policy influences the conduct of monetary policy in tractable heterogeneous agent economies. A priori, progressive labor taxation is undesirable because it generates costly distortions. Nonetheless, it is an effective instrument to mitigate the inflation bias of monetary policy because it achieves a redistributive purpose. I analyze this commitment channel of progressive labor taxes through the lens of political conflicts. When agents vote on monetary and fiscal instruments, progressivity is decisive in curbing the inflation bias because it generates distributional conflicts: lower-productivity agents support higher labor taxes to preserve the consumption value of money holding and shift the burden of tax distortions to higher-productivity agents. Anticipating the reduction in inflation, agents unanimously desire to adopt a progressive fiscal system.</div>
-      <div class="paper-meta">
-        <span class="dash-line">Accepted for publication at <em>Journal of Money, Credit and Banking</em></span>
-      </div>
-      <div class="paper-links">
-        <a href="web_content/FPMP_0925_main-1.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/FPMP_0925_online_app-1.pdf" target="_blank">[Appendix]</a>
-      </div>
-    </div>
-
-    <!-- 2. Central Bank Strikes Back -->
-    <div class="paper">
-      <span class="paper-title">The Central Bank Strikes Back! Credibility of Monetary Policy under Fiscal Influence</span>,
-      with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>
-      <div class="paper-abstract">How should independent central banks react if pressured by fiscal policymakers? We contrast the implications of two monetary frameworks: one, where the central bank follows a standard rule aiming exclusively at price stability against the other, where monetary policy additionally leans against fiscal influence. The latter rule improves economic outcomes by providing appropriate incentives to the fiscal authority. More importantly, the additional fiscal conditionality can enhance the credibility of the central bank to achieve price stability. We emphasise how the level and structure of government debt emerge as key factors affecting the credibility of monetary policy with fiscal conditionality.</div>
-      <div class="paper-meta">
-        <span class="dash-line">&#8211; <em>The Economic Journal</em>, January 2023</span>
-        <span class="dash-line">&#8211; <a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/under-pressure-credibility-of-monetary-policy/" target="_blank">SUERF Policy Brief</a></span>
-      </div>
-      <div class="paper-links">
-        <a href="https://academic.oup.com/ej/article/133/649/1/6765295" target="_blank">[Published Paper]</a>
-        <a href="web_content/CM_20220607.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/CM_0121_slides.pdf" target="_blank">[Slides]</a>
-        <a href="https://www.bankofcanada.ca/2022/03/staff-working-paper-2022-11/" target="_blank">[WP]</a>
-      </div>
-    </div>
-
-    <!-- 3. Political Activism -->
-    <div class="paper">
-      <span class="paper-title">Political Activism and the Provision of Dynamic Incentives</span>,
-      with <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a>
-      <div class="paper-abstract">This paper studies the determination of income taxes in a dynamic setting with human capital accumulation. The goal is to understand the factors that support an outcome without complete redistribution, given a majority of relatively poor agents and the inability to commit to future taxes. All agents agree <em>ex ante</em> that limiting tax and transfers is beneficial but a majority favours large redistribution, <em>ex post</em>, at the time of the vote. In a political influence game, group activism limits the support for expropriatory taxation and preserves incentives. In some cases, the outcome corresponds to the optimal allocation under commitment.</div>
-      <div class="paper-meta">
-        <span class="dash-line"><em>The Economic Journal</em>, October 2021</span>
-      </div>
-      <div class="paper-links">
-        <a href="https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueab015/6146090" target="_blank">[Published Paper]</a>
-        <a href="web_content/CC2_0520_AC.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/Activism_180121_color.pdf" target="_blank">[Slides]</a>
-        <a href="https://www.nber.org/papers/w26654" target="_blank">[WP]</a>
-      </div>
-    </div>
-
-    <!-- 4. Furor over the Fed -->
-    <div class="paper">
-      <span class="paper-title">Furor over the Fed: A President's Tweets and Central Bank Independence</span>,
-      with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>
-      <div class="paper-abstract">We illustrate how financial market data are informative about the interactions between monetary and fiscal policy. Federal funds futures are private contracts that reflect investor's expectations about future monetary policy decisions. By relating price movements of these contracts with President Trump's tweets on monetary policy, we explore how financial market participants have perceived attempts by the President to influence monetary policy decisions. Our results indicate that market participants expected the Federal Reserve Bank to adjust monetary policy in the direction suggested by President Trump.</div>
-      <div class="paper-meta">
-        <span class="dash-line">&#8211; <em>CESifo Economic Studies</em>, Volume 67, Issue 1, March 2021</span>
-        <span class="dash-line">&#8211; Coverage:
-          <a href="https://www.bloomberg.com/news/articles/2019-12-19/trump-s-fed-attacks-do-shape-markets-bank-of-canada-study-finds" target="_blank">Bloomberg</a>,
-          <a href="https://business.financialpost.com/news/economy/affirming-the-bank-of-canadas-independence-has-to-be-more-than-just-lip-service" target="_blank">Financial Post</a>
-        </span>
-      </div>
-      <div class="paper-links">
-        <a href="https://academic.oup.com/cesifo/article/67/1/106/6133120" target="_blank">[Published Paper]</a>
-        <a href="web_content/TTweets_final_1120.pdf" target="_blank">[PDF]</a>
-        <a href="https://www.bankofcanada.ca/2019/12/staff-analytical-note-2019-33/" target="_blank">[WP]</a>
-      </div>
-    </div>
-
-    <!-- 5. COVID European Institutions -->
-    <div class="paper">
-      <span class="paper-title">The Evolution of European Economic Institutions during the COVID-19 Crisis</span>,
-      with <a href="https://sites.google.com/view/gregoryclaeys/home" target="_blank">Gregory Claeys</a>
-      <div class="paper-abstract">This article argues that the incomplete economic and institutional integration of the euro area has exposed the monetary union to increasing economic divergence, which could be deepened by the COVID-19 crisis. We discuss how monetary and fiscal measures implemented at the onset of the pandemic have contributed to mitigate the economic consequences of lockdowns, but provided limited insurance to narrow economic gaps across member countries. However, EU countries agreed on July 21, 2020 to develop, for the first time, countercyclical fiscal transfers financed by common debt issuance. We discuss the potential of this instrument to contribute to improve the resilience of the eurozone.</div>
-      <div class="paper-meta">
-        <span class="dash-line"><em>European Policy Analysis</em>, Vol 6.2, December 2020</span>
-      </div>
-      <div class="paper-links">
-        <a href="https://onlinelibrary.wiley.com/doi/10.1002/epa2.1100" target="_blank">[Published Paper]</a>
-      </div>
-    </div>
-
-    <!-- 6. Monetary Policy and Debt Fragility -->
-    <div class="paper">
-      <span class="paper-title">&ldquo;Whatever It Takes&rdquo; Is All You Need: Monetary Policy and Debt Fragility</span>,
-      with <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a>
-      <div class="paper-abstract">The valuation of government debt is subject to strategic uncertainty. Pessimistic lenders, fearing default, bid down the price of debt, leaving a government with a higher debt burden. This increases the likelihood of default, thus confirming the pessimism of lenders. Can monetary interventions mitigate debt fragility? With one-period commitment to a state-contingent policy, the monetary authority can indeed overcome strategic uncertainty. Under discretion, debt fragility remains unless reputation effects are sufficiently strong. Simpler forms of interventions, such as an inflation target, cannot eliminate debt fragility.</div>
-      <div class="paper-meta">
-        <span class="dash-line"><em>American Economic Journal: Macroeconomics</em>, vol 11(4), October 2019</span>
-      </div>
-      <div class="paper-links">
-        <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20170167" target="_blank">[Published Paper]</a>
-        <a href="web_content/Camous_Cooper%20-%20MP_DF.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/cam_coop_aug22_2018_ac.pdf" target="_blank">[Slides]</a>
-        <a href="https://www.nber.org/papers/w20650" target="_blank">[WP]</a>
-      </div>
-    </div>
-
-    <!-- 7. Public Debt and Fiscal Policy Traps -->
-    <div class="paper">
-      <span class="paper-title">Public Debt and Fiscal Policy Traps</span>,
-      with <a href="https://www.bankofengland.co.uk/research/researchers/andrew-gimber" target="_blank">Andrew Gimber</a>
-      <div class="paper-abstract">We present a theory linking the cyclicality of tax policy to inherited public debt. When debt is low, tax policy is countercyclical, in the sense that the government responds to low output by setting a low tax rate. Above a threshold level of debt, however, optimal tax policy becomes procyclical. This creates the possibility of self-fulfilling crises (&ldquo;fiscal policy traps&rdquo;), in which output is low because households expect high taxes, and the government sets high taxes because output is low. Our model suggests why highly indebted governments might implement procyclical tax policy even without facing high sovereign risk premia.</div>
-      <div class="paper-meta">
-        <span class="dash-line"><em>Journal of Economic Dynamics and Control</em>, vol 93, August 2018</span>
-      </div>
-      <div class="paper-links">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165188918300782" target="_blank">[Published Paper]</a>
-        <a href="web_content/debt_cyclicality_2017-09-04.pdf" target="_blank">[PDF]</a>
-      </div>
-    </div>
-
-    <hr>
-
     <!-- WORKING PAPERS -->
     <h2>Working Papers</h2>
     <p style="font-size: 12.5px; color: #999; margin-top: -10px; margin-bottom: 14px;">(Click on title for abstract)</p>
 
-    <!-- WP1. Monetary Stabilization Multi-Sector -->
+    <!-- WP1. CRE -->
     <div class="paper">
-      <span class="paper-title">Monetary Stabilization of a Multi-Sector Economy: Adding Words to Action?</span>,
-      with <a href="https://www.sites.google.com/site/dimitrymatveev/" target="_blank">Dmitry Matveev</a>
-      <div class="paper-abstract">In a multi-sector economy, conventional monetary policy alone is insufficient for achieving optimal economic stabilization. We examine whether a central bank can leverage private information about economic conditions to enhance policy effectiveness and improve outcomes. Our normative analysis emphasizes that the central bank should refrain from manipulating private beliefs and, if disclosure is optimal, should communicate information truthfully. However, such a communication policy is generally not credible, as even a benevolent policymaker faces sequential incentives to influence the beliefs of price-setting firms to reduce price dispersion and its negative welfare effects. In the absence of commitment, reputation becomes crucial in shaping these incentives. Specifically, a policymaker who strategically discloses information may secure significant stabilization gains during her term, but at the cost of long-term economic inefficiency.</div>
+      <span class="paper-title">Commercial Real Estate and Credit Misallocation</span>
+      <div class="paper-abstract">This paper accounts for the heightened sensitivity of Commercial Real Estate (CRE) investors to credit conditions and examines its macroeconomic implications. I first document that CRE investors hold a large share of capital and face looser credit standards than other non-financial firms, owing to the higher pledgeability of their assets. I then incorporate CRE investors into a two-sector general equilibrium model with heterogeneous borrowing constraints. This feature generates sectoral misallocation: capital accumulated by CRE investors yields lower expected returns than capital held by other non-financial firms. I show that this misallocation is substantial, both in steady state and over the credit cycle, by calibrating the model to French macro and micro data. Because sectoral capital stocks are imperfect substitutes, policies that reallocate credit from CRE investors toward other non-financial firms raise welfare, particularly when implemented during the boom phase of a credit cycle.
       <div class="paper-links">
-        <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/monetary-stabilization-multi-sector-economy-adding-words-action" target="_blank">[BdF WP]</a>
-        <a href="web_content/NK_SCRep_072025_sub.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/Mon_Multi_Com_0625_slides.pdf" target="_blank">[Slides]</a>
+        <a href="doc/MacroCRE_paper">[PDF]</a>
       </div>
     </div>
 
-    <!-- WP2. Austria Inflation Persistence -->
+    <!-- WP2. CY and EPI -->
     <div class="paper">
-      <span class="paper-title">Austria One Century Apart: Persistent Effects of Hyperinflation on Inflation Expectations</span>,
-      with Natalia Garcia Soto, February 2026
-      <div class="paper-abstract">Do historical inflation experiences influence the responsiveness of contemporary expectations to inflation shocks? Using regional inflation data from Austria&rsquo;s 1921&ndash;22 hyperinflation linked to contemporaneous quarterly consumer surveys (May 2020&ndash;Oct 2024), we show that individuals from regions more exposed to past hyperinflation adjust expectations more sharply during inflationary shocks, rather than exhibiting permanently different baseline expectations. Regional media are shown to devote greater attention to inflation in areas with higher historical hyperinflation, suggesting a channel of intergenerational transmission of economic attitudes. These results indicate historical inflation shapes behavioral sensitivity to shocks and carry policy implications for managing expectations during volatile periods.</div>
-      <div class="paper-meta">
-        <span class="dash-line">R&amp;R at <em>Economic Letters</em></span>
-      </div>
-      <div class="paper-links">
-        <a href="web_content/InfPersis_revised_manuscript_0226-1.pdf" target="_blank">[PDF]</a>
-      </div>
+      <span class="paper-title">From Convenience Yield to Equity Premium. The Debt Dillution Channel</span>
     </div>
 
-    <!-- WP3. World Cycles Revisited -->
-    <div class="paper">
-      <span class="paper-title">World Cycles Revisited: Diverging Trends in Prices and Quantities</span>,
-      with <a href="https://sites.google.com/view/damienpuy/accueil" target="_blank">Damien Puy</a> and <a href="https://www.ericmonnet.eu/home" target="_blank">Eric Monnet</a>, September 2025
-      <div class="paper-abstract">We revisit evidence on world cycles using a new quarterly macro-financial dataset covering a broad set of countries from 1950 to the COVID-19 crisis. By filling historical data gaps, we show that previous studies overstated the influence of global factors on national GDP and credit fluctuations. Our central finding is a novel disconnect: asset prices have become increasingly synchronized under financial globalization, whereas output synchronization has remained low and stable. We propose a parsimonious model in which deeper financial integration raises risk-sharing and asset-price co-movement while encouraging riskier, less correlated production structures, thereby reconciling the observed patterns.</div>
-      <div class="paper-meta">
-        <span class="dash-line">&#8211; Conditionally accepted at <em>American Economic Journal: Macroeconomics</em></span>
-        <span class="dash-line">&#8211; Blog BdF &#8211; <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/what-do-70-years-data-world-cycles-tell-us-decoupling-prices-and-quantities" target="_blank">ENG</a> &#8211; <a href="https://www.banque-france.fr/fr/publications-et-statistiques/publications/que-disent-70-ans-de-donnees-sur-les-cycles-mondiaux-le-decouplage-prix-quantite" target="_blank">FR</a></span>
-      </div>
-      <div class="paper-links">
-        <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/world-cycles-revisited-diverging-trends-prices-and-quantities" target="_blank">[BdF WP]</a>
-        <a href="web_content/WC_092025-1.pdf" target="_blank">[PDF]</a>
-        <a href="https://acamous.github.io/macro_financial_dataset/" target="_blank">[Data]</a>
-      </div>
-    </div>
+    <hr>
 
-    <!-- WP4. Evaluating Financial Instability Hypothesis -->
+    <!-- ACADEMIC PUBLICATIONS -->
+    <h2>Academic publications</h2>
+    <p style="font-size: 12.5px; color: #999; margin-top: -10px; margin-bottom: 14px;">(Click on title for abstract)</p>
+
+    <!-- 1. CR - MP -->
     <div class="paper">
-      <span class="paper-title">Evaluating the Financial Instability Hypothesis</span>,
-      with <a href="https://sites.google.com/view/avanderghote/home" target="_blank">Alejandro Van der Ghote</a>
-      <div class="paper-abstract">Historical accounts of financial crises emphasize the joint contribution of extrapolative beliefs and leveraged risk-taking to financial instability. This paper proposes a simple macro-finance framework to evaluate these views. We find a novel interplay between non-rational extrapolation and investment risk-taking that amplifies financial instability relative to a rational expectation benchmark. Furthermore, the analysis provides guidance on the design of cyclical policy interventions. Specifically, relative to a rational expectations benchmark, extrapolative expectations command tighter financial regulation, irrespective of whether the regulator shares these expectations.</div>
+      <span class="paper-title">Capital Requirements in Light of Monetary Tightening</span>,
+      with Lisa Kerdelhué and Julien Matheron</a>
+      <div class="paper-abstract">In 2021, euro area inflation surged, prompting the European Central Bank to reverse its monetary stance. This paper argues that this shift did not generate significant financial stress, partly because of the bank capital requirements introduced in the 2010s. We develop a framework to assess their effects over the business cycle. Although capital requirements remained broadly stable, they shaped the transmission of the structural shocks underlying this episode. We find that while these requirements modestly constrained post-Covid growth, they successfully prevented the materialization of risks. Overall, capital requirements strengthened the economy’s resilience to adverse shocks at a relatively low macroeconomic cost.
       <div class="paper-meta">
-        <span class="dash-line">R&amp;R at <em>The Economic Journal</em></span>
+        <span class="dash-line">&#8211; Forthcoming in the <em>International Journal of Central Banking</em>, April 2026</span>
       </div>
       <div class="paper-links">
-        <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/evaluating-financial-instability-hypothesis-positive-and-normative-analysis-leveraged-risk-taking" target="_blank">[BdF WP]</a>
-        <a href="web_content/FIH_0925.pdf" target="_blank">[PDF]</a>
-        <a href="web_content/Evaluating%20the%20Financial%20Instability%20Hypothesis%20Appendix.pdf" target="_blank">[Online Appendix]</a>
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786680" target="_blank">[SSRN]</a>
+        <a href="https://www.banque-france.fr/en/publications-andcs/publications/capital-requirements-light-monetary-tightening">[Working Paper]</a>
       </div>
-    </div>
+    </div> 
+
+    <!-- 2. Poincaré -->
+    <div class="paper">
+      <span class="paper-title">Public Debt as Private Liquidity: The Poincaré Experience (1926–1929) </span>
+      <div class="paper-abstract">In the follow-up to the 1926 political and monetary crisis in France, a new government led by Raymond Poincaré attempted to restore monetary stability by restructuring public debt. A sinkinfund was missioned to withdraw short-term public bills from money markets. This policy disorganized the largest Parisian banks of the time, as they relied on these bills to manage their liquidity. Without developed domestic money markets, no other asset could absorb the excessliquidity freed by the withdrawal of these bills, and these leading banks faced a low-rate environment. In search of yield, they expanded their activities abroad a few months before the 1929 crash. These findings renew our understanding of the expansion of France's banking sector in the 1920s. In addition, they shed new light on the role of public debt in financial stability in an open economy. 
+      <div class="paper-meta">
+        <span class="dash-line"> <em>Financial Histoiry Review</em>, 2023, 30(3):308-329</span>
+      </div>
+      <div class="paper-links">
+        <a href="https://www.cambridge.org/core/journals/financial-history-review/article/abs/public-debt-as-private-liquidity-the-poincare-experience-19261929/26C1F3075334D572D0A1376B1803BBB1" target="_blank">[Published paper]</a>
+        <a href="https://www.banque-france.fr/system/files/2024-04/WP945.pdf" target="_blank">[Working paper]</a>
+        <a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/public-debt-as-private-liquidity-the-poincare-experience-1926-1929/" target="_blank">[SUERF Policy Brief]</a>
+      </div>
+    </div>  
 
   </div><!-- /content -->
 </div><!-- /wrapper -->
