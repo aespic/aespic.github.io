@@ -19,7 +19,7 @@ Research interests : macro-finance, financial regulation, monetary policy\
 **From Convenience Yield to Equity Premium. The Debt Dillution Channel**\
 On-going project
 
-**Commercial Real Estate and Credit Misallocation**\  
+**Commercial Real Estate and Credit Misallocation**\
 [PDF](doc/MacroCRE_paper.pdf)
 
 ---
@@ -28,7 +28,7 @@ On-going project
 
 **Capital Requirements in Light of Monetary Tightening**\
 With Lisa Kerdelhue and Julien Matheron\
-Accepted for publication at *International Journal of Central Banking*\ 
+Accepted for publication at *International Journal of Central Banking*\
 [Working Paper](https://www.banque-france.fr/en/publications-and-statistics/publications/capital-requirements-light-monetary-tightening)
 
 **Public debt as private liquidity: the Poincaré experience (1926–1929)**\ 
