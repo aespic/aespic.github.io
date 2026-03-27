@@ -7,17 +7,13 @@ title: "Aurelien Espic"
 
 <img src="/doc/espic.jpeg" alt="Aurelien Espic" width="160" style="border-radius: 50%; border: 3px solid #ddd;">
 
-## Contact
-
 Research economist - Banque de France, DGSEI - DECI - SEMSI
 
 PhD candidate - Aix-Marseille School of Economics
 
 Research interests : macro-finance, financial regulation, monetary policy
 
-[aurelien.espic(at)banque-france.fr](mailto:aurelien.espic@banque-france.fr)
-
-[CV](doc/cv_espic_2025.pdf)
+[aurelien.espic(at)banque-france.fr](mailto:aurelien.espic@banque-france.fr) • [CV](doc/cv_espic_2025.pdf)
 
 ---
 
